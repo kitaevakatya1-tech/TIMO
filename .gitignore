@@ -1,3 +1,5 @@
 .DS_Store
-data/raw/
-data/incoming/
+data/raw/*
+!data/raw/*.dvc
+data/incoming/*
+!data/incoming/*.dvc
