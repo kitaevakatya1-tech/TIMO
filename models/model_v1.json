@@ -1,0 +1,7 @@
+{
+  "version": "v1",
+  "trained": "2026-11-20",
+  "data": "train_initial.csv (MovieLens), 100%",
+  "algorithm": "GradientBoostingRegressor(lr=0.03, max_depth=4, min_samples_leaf=20, n_estimators=100)",
+  "val_rmse": 0.939
+}
